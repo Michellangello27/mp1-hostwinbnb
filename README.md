@@ -62,4 +62,8 @@ src/
 ## _________________
 
 **Miguel Angel Cornejo D.**  
-GitHub: [Michelangelo27](https://github.com/tuusuario)
+Repositorio del proyecto
+GitHub: [Michelangelo27]https://github.com/Michellangello27/mp1-hostwinbnb
+
+Pagina Desplegada en Versel
+[mp1-hostwinbnb.vercel.app](https://mp1-hostwinbnb.vercel.app)
